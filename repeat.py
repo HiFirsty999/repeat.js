@@ -22,3 +22,5 @@ else:
         WithNumber(Text)
     elif NumberAskLower == "no":
         WithoutNumber(Text)
+
+#Copy this code to your python compiler!
