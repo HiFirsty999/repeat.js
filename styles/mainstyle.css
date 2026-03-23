@@ -9,11 +9,15 @@ body {
 }
 
 button {
-    height: 5vh;
-    width: 25vh;
+    height: 8vh;
+    width: 20vh;
     color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 75);
     cursor: pointer;
+    border-radius: 1vh;
+
+    text-wrap: normal;
+    white-space: break-word;
 
     transition-property: all;
     transition-duration: 1s;
